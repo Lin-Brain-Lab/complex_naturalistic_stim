@@ -1,4 +1,4 @@
-[https://github.com/Lin-Brain-Lab/complex_naturalistic_stim/blob/main/images/naturalistic%20stimuli%20012823_cover.png]
+![https://github.com/Lin-Brain-Lab/complex_naturalistic_stim/blob/main/images/naturalistic%20stimuli%20012823_cover.png]
 
 # complex naturalistic stimulus in neuroimaging
 
