@@ -6,7 +6,7 @@ Most neuroscience experiments utilize tightly controlled stimulus in order to pr
 All these issues have prompted the research community to shift towards the use of complex naturalistic stimuli to probe brain functions. As we use audiovisually rich materials to stimulate the brain, how do we correlate between neuronal responses and the stimuli and make comparisons to test hypotheses? 
 
 ## Using complex naturalistic stimulus in our lab
-- Introduction
+- Introduction: why do we need complex audiovisual stimuli for neuroimaging?
 
 [![Introduction](https://img.youtube.com/vi/5NCfLvE4Koc/0.jpg)](https://www.youtube.com/watch?v=5NCfLvE4Koc)
 
@@ -17,6 +17,11 @@ All these issues have prompted the research community to shift towards the use o
 - Reading
 
 [![reading](https://img.youtube.com/vi/qaQpWsPHFuA/0.jpg)](https://www.youtube.com/watch?v=qaQpWsPHFuA)
+
+- Music listsening
+
+[![reading](https://img.youtube.com/vi/NoCNTvgWMcE/0.jpg)](https://www.youtube.com/watch?v=NoCNTvgWMcE)
+
 
 
 ## Challenges and opportunies
