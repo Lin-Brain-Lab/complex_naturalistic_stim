@@ -7,13 +7,13 @@ All these issues have prompted the research community to shift towards the use o
 
 ## Using complex naturalistic stimulus in our lab
 Introduction
-[![](https://img.youtube.com/vi/5NCfLvE4Koc/0.jpg)](https://www.youtube.com/watch?v=5NCfLvE4Koc)
+[![Introduction](https://img.youtube.com/vi/5NCfLvE4Koc/0.jpg)](https://www.youtube.com/watch?v=5NCfLvE4Koc)
 
 Sense of humor
-[![](https://img.youtube.com/vi/3M6bDJloKL0 /0.jpg)](https://www.youtube.com/watch?v=3M6bDJloKL0 )
+[![humor](https://img.youtube.com/vi/3M6bDJloKL0/0.jpg)](https://www.youtube.com/watch?v=3M6bDJloKL0)
 
 Reading
-[![](https://img.youtube.com/vi/qaQpWsPHFuA /0.jpg)](https://www.youtube.com/watch?v=qaQpWsPHFuA )
+[![reading](https://img.youtube.com/vi/qaQpWsPHFuA/0.jpg)](https://www.youtube.com/watch?v=qaQpWsPHFuA)
 
 
 ## Challenges and opportunies
