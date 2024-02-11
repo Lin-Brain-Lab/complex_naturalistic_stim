@@ -1,3 +1,5 @@
+[[https://github.com/lin-brain-lab/complex_naturalistic_stim/blob/main/images/naturalistic stimuli 012823_cover.png]]
+
 # complex naturalistic stimulus in neuroimaging
 
 Most neuroscience experiments utilize tightly controlled stimulus in order to provide and generate results that are easily interpretable and follow simple rules of biology. At the same time, we hoped that these results could be extrapolated and reflect the neural functions of the brain in a real-world context. But to what extent do our models actually generalize outside the laboratory? What proportion of neural or behavioral variability do our models predict in real-life context? The brain encounters many issues outside a controlled laboratory setting. Evolution has nurtured brains to function in a multidimensional world where it cannot be fully characterized by simple and easily interpreted signals. Accordinignly, the knowledge about a brain derived from well-controlled stimuli is limited. 
