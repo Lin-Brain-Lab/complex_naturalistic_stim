@@ -38,14 +38,14 @@ All these issues have prompted the research community to shift towards the use o
 
 
 ## Our publications
-“Processing of an audiobook in the human brain is shaped by cultural family background“, Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, Brain Sciences (2022), Vol.12 (5), 649. doi: 10.3390/brainsci12050649.
+[“Processing of an audiobook in the human brain is shaped by cultural family background“](https://drive.google.com/file/d/1m1n0HsG2sOR8ywWE8Onf23B1D3K4zL81/view), Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, Brain Sciences (2022), Vol.12 (5), 649. doi: 10.3390/brainsci12050649.
 
-“Multivariate identification of functional neural networks underpinning humorous movies viewing“, Fa-Hsuan Lin, Hsin-Ju Lee, Wen-Jui Kuo* and Iiro P Jääskeläinen, Frontiers in Psychology-Cognitive Science, (2021), 11:547353. doi: 10.3389/fpsyg.2020.547353
+[“Multivariate identification of functional neural networks underpinning humorous movies viewing“](https://drive.google.com/file/d/1WIUxijD5ZOdyoc_ZRCVcUX28Cnm3TdgD/view), Fa-Hsuan Lin, Hsin-Ju Lee, Wen-Jui Kuo* and Iiro P Jääskeläinen, Frontiers in Psychology-Cognitive Science, (2021), 11:547353. doi: 10.3389/fpsyg.2020.547353
 
-“Differential brain mechanisms during reading human vs. machine translated fiction and news texts“, Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, Scientific Reports, (9), Article number: 13251, doi: 10.1038/s41598-019-49632-w
+[“Differential brain mechanisms during reading human vs. machine translated fiction and news texts“](https://drive.google.com/file/d/1A21cNqYMBghxnsD1r5ezc909ujgNifE6/view), Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, Scientific Reports, (9), Article number: 13251, doi: 10.1038/s41598-019-49632-w
 
-“Reduced synchronized brain activity in schizophrenia during viewing of comedy movies“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, Scientific Reports, S__cientific Reports, (8), Article number: 13287, doi: 10.1038/s41598-019-48957-w
+[“Reduced synchronized brain activity in schizophrenia during viewing of comedy movies“](https://drive.google.com/file/d/1N4LKUIQz39yMBcNuO47wSH_vAjCsuvr7/view), Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, Scientific Reports, S__cientific Reports, (8), Article number: 13287, doi: 10.1038/s41598-019-48957-w
 
-“Brain hemodynamic activity during viewing and re-viewing of comedy movies explained by experienced humor“, Iiro P. Jääskeläinen, Juha Pajula, Jussi Tohka, Hsin-Ju Lee, Wen-Jui Kuo, Fa-Hsuan Lin, Scientific Reports, (6), Article number: 27741, doi:10.1038/srep27741
+[“Brain hemodynamic activity during viewing and re-viewing of comedy movies explained by experienced humor“](https://drive.google.com/file/d/180jTFaOb7wwk55vlcc1q_JbfY9x_ldwe/view), Iiro P. Jääskeläinen, Juha Pajula, Jussi Tohka, Hsin-Ju Lee, Wen-Jui Kuo, Fa-Hsuan Lin, Scientific Reports, (6), Article number: 27741, doi:10.1038/srep27741
 
 
