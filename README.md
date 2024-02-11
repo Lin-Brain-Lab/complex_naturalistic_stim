@@ -1,4 +1,4 @@
-[![https://github.com/Lin-Brain-Lab/complex_naturalistic_stim/blob/main/images/naturalistic stimuli 012823_cover.png]]
+[[https://github.com/Lin-Brain-Lab/complex_naturalistic_stim/blob/main/images/naturalistic stimuli 012823_cover.png]]
 
 # complex naturalistic stimulus in neuroimaging
 
@@ -6,7 +6,7 @@ Most neuroscience experiments utilize tightly controlled stimulus in order to pr
 All these issues have prompted the research community to shift towards the use of complex naturalistic stimuli to probe brain functions. As we use audiovisually rich materials to stimulate the brain, how do we correlate between neuronal responses and the stimuli and make comparisons to test hypotheses? 
 
 ## Using complex naturalistic stimulus in our lab
-[![Introduction]()](https://drive.google.com/file/d/1m4zKDyYtwyg-Wc-dA3SssB1zZXGA2AIG/view?usp=drive_link)
+[![Introduction](https://img.youtube.com/vi/-5NCfLvE4Koc/0.jpg)]( https://youtu.be/5NCfLvE4Koc)
 [![Video demo](https://img.youtube.com/vi/-y1EQQTXEHw/0.jpg)](https://www.youtube.com/watch?v=-y1EQQTXEHw)
 
 ## Challenges and opportunies
