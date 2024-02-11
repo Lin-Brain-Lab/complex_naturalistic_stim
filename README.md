@@ -1,4 +1,4 @@
-[[https://github.com/Lin-Brain-Lab/complex_naturalistic_stim/blob/main/images/naturalistic stimuli 012823_cover.png]]
+[https://github.com/Lin-Brain-Lab/complex_naturalistic_stim/blob/main/images/naturalistic%20stimuli%20012823_cover.png]
 
 # complex naturalistic stimulus in neuroimaging
 
@@ -7,7 +7,6 @@ All these issues have prompted the research community to shift towards the use o
 
 ## Using complex naturalistic stimulus in our lab
 [![Introduction](https://img.youtube.com/vi/5NCfLvE4Koc/0.jpg)](https://www.youtube.com/watch?v=5NCfLvE4Koc)
-[![Video demo](https://img.youtube.com/vi/-y1EQQTXEHw/0.jpg)](https://www.youtube.com/watch?v=-y1EQQTXEHw)
 
 ## Challenges and opportunies
 
