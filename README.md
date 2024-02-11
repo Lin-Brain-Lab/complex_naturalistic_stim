@@ -26,6 +26,13 @@ All these issues have prompted the research community to shift towards the use o
 
 [![reading](https://img.youtube.com/vi/5f4hy-nLaSA/0.jpg)](https://www.youtube.com/watch?v=5f4hy-nLaSA)
 
+
+### Gaming
+
+[![reading](https://img.youtube.com/vi/v-VHNFQZP7c/0.jpg)](https://www.youtube.com/watch?v=v-VHNFQZP7c)
+
+
 ## Challenges and opportunies
 
+[![reading](https://img.youtube.com/vi/sVGPbsBMK_4/0.jpg)](https://www.youtube.com/watch?v=sVGPbsBMK_4)
 
