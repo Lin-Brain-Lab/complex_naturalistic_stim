@@ -48,4 +48,9 @@ All these issues have prompted the research community to shift towards the use o
 
 [“Brain hemodynamic activity during viewing and re-viewing of comedy movies explained by experienced humor“](https://drive.google.com/file/d/180jTFaOb7wwk55vlcc1q_JbfY9x_ldwe/view), Iiro P. Jääskeläinen, Juha Pajula, Jussi Tohka, Hsin-Ju Lee, Wen-Jui Kuo, Fa-Hsuan Lin, Scientific Reports, (6), Article number: 27741, doi:10.1038/srep27741
 
+## References
+
+[“Perspective Taking in the Human Brain: Complementary Evidence from Neuroimaging Studies with Media-Based Naturalistic Stimuli and Artificial Controlled Paradigms.”](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1051934/full) Jääskeläinen, Iiro P., and Vladimir Kosonogov. 2023.  Frontiers in Human Neuroscience 17 (February): 1051934.
+
+[“Movies and Narratives as Naturalistic Stimuli in Neuroimaging.”](https://www.sciencedirect.com/science/article/pii/S1053811920309307) Jääskeläinen, Iiro P., Mikko Sams, Enrico Glerean, and Jyrki Ahveninen. 2021. NeuroImage 224 (117445): 117445.
 
